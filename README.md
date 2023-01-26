@@ -2,7 +2,7 @@
 
 if you compleate this pdf book files then you will success in your Zend Exam. 
 
-### My Exam Date was 08-01-2023 :  Md. Ahsan Habib <habib.csep@gmail.com>
+### My Exam Date was 08-01-2023 :  Md. Ahsan Habib 
 
 # Zend Study Note
 ###### Time:   90 Minutes
